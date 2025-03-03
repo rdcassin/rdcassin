@@ -8,7 +8,7 @@ I have had a long time interest in coding, but I am finally switching careers to
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [rdcassin@gmail.com](mailto:rdcassin@gmail.com)
-* 🧠  I'm learning and improving on my Next.js knowledge by creating clones. I'm also learning GML to create games as a side project.
+* 🧠  I'm learning and improving on my Next.js knowledge by creating clones. I'm also learning GML to create video games.
 * 🤝  I'm open to collaborating on anything related to web development and video games.
 * ⚡  I'm eager and hungry to learn more and create amazing projects.
 
