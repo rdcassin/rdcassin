@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I have had a long time interest in coding, but I am finally switching careers to pursue this passion full time after undergraduate studies in physics and a career in finance. To date, my training is in frontend development but I have worked with a variety of backend coding languages (e.g. Python, Java, C++).
+I am a frontend developer with industry experience in finance and education in physics.  I also have experience with Python, Java, and C++.
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [rdcassin@gmail.com](mailto:rdcassin@gmail.com)
