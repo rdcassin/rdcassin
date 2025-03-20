@@ -8,7 +8,7 @@ I am a frontend developer with industry experience in finance and education in p
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [rdcassin@gmail.com](mailto:rdcassin@gmail.com)
-* 🧠  I'm learning and improving on my Next.js knowledge by creating clones. I'm also learning GML to create video games.
+* 🧠  I'm learning Go and SQL right now.
 * 🤝  I'm open to collaborating on anything related to web development and video games.
 * ⚡  I'm eager and hungry to learn more and create amazing projects.
 
