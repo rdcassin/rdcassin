@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Doug Cassingham
 =======================================================================================================================================
 
-Frontend Developer
+Full-Stack Developer (Front-end Focus)
 ------------------
 
-I am a frontend developer with industry experience in finance and education in physics.  I also have experience with Python, Java, and C++.
+I am a full-stack developer (front-end focus) with industry experience in finance and education in physics.
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [rdcassin@gmail.com](mailto:rdcassin@gmail.com)
