@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 ------------------
 
-I am a full-stack developer (front-end focus) with industry experience in finance and education in physics.
+I am a full-stack developer with industry experience in finance and education in physics.
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [rdcassin@gmail.com](mailto:rdcassin@gmail.com)
-* 🧠  I'm learning Go and SQL right now.
-* 🤝  I'm open to collaborating on anything related to web development and video games.
+* 🧠  I'm learning SQL, Docker, and Kubernetes right now.
+* 🤝  I'm open to collaborating on anything related to creating software solutions and making video games.
 * ⚡  I'm eager and hungry to learn more and create amazing projects.
 
 ### Skills
